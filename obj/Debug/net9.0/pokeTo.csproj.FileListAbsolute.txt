@@ -1,0 +1,14 @@
+C:\Users\adona\pokeTo\bin\Debug\net9.0\pokeTo.deps.json
+C:\Users\adona\pokeTo\bin\Debug\net9.0\pokeTo.dll
+C:\Users\adona\pokeTo\bin\Debug\net9.0\pokeTo.pdb
+C:\Users\adona\pokeTo\obj\Debug\net9.0\pokeTo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adona\pokeTo\obj\Debug\net9.0\pokeTo.AssemblyInfoInputs.cache
+C:\Users\adona\pokeTo\obj\Debug\net9.0\pokeTo.AssemblyInfo.cs
+C:\Users\adona\pokeTo\obj\Debug\net9.0\pokeTo.csproj.CoreCompileInputs.cache
+C:\Users\adona\pokeTo\obj\Debug\net9.0\pokeTo.dll
+C:\Users\adona\pokeTo\obj\Debug\net9.0\refint\pokeTo.dll
+C:\Users\adona\pokeTo\obj\Debug\net9.0\pokeTo.pdb
+C:\Users\adona\pokeTo\obj\Debug\net9.0\ref\pokeTo.dll
+C:\Users\adona\pokeTo\bin\Debug\net9.0\pokeTo.exe
+C:\Users\adona\pokeTo\bin\Debug\net9.0\pokeTo.runtimeconfig.json
+C:\Users\adona\pokeTo\obj\Debug\net9.0\pokeTo.genruntimeconfig.cache
