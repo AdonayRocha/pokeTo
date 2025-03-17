@@ -1,4 +1,4 @@
-# Poketo 📱💰
+# PokeTo 📱💰
 
 **Poketo** é um projeto de exemplo que demonstra a implementação de uma aplicação de console em C# com uma biblioteca (*lib*) para gerenciamento de contas bancárias. O nome *Poketo* vem da combinação de "Poke" (de bolso) e "to" (para), significando **"Para Bolso"**. 🧳  
 
