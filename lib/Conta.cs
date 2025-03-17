@@ -3,13 +3,9 @@ namespace PokeTo.Lib
     public abstract class Conta
     {
         public string Titular { get; private set; }
-
         protected decimal Saldo { get; set; }
-
         internal string Banco { get; set; }
-
         protected internal string Agencia { get; set; }
-
         private protected string NumeroConta { get; set; }
 
         public Conta(string titular)
@@ -33,7 +29,6 @@ namespace PokeTo.Lib
         {
             Console.WriteLine($"Saldo: {Saldo}");
         }
-
         public decimal ObterSaldo()
         {
             return Saldo;

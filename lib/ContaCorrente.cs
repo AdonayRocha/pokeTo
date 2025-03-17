@@ -3,7 +3,6 @@ namespace PokeTo.Lib
     public class ContaCorrente : Conta
     {
         public ContaCorrente(string titular) : base(titular) { }
-
         public override void Depositar(decimal valor)
         {
             Saldo += valor;
@@ -14,8 +13,7 @@ namespace PokeTo.Lib
             if (Saldo >= valor)
             {
                 Saldo -= valor;
-            }
-            else
+            } else
             {
                 Console.WriteLine("Saldo insuficiente.");
             }
@@ -27,8 +25,7 @@ namespace PokeTo.Lib
             {
                 Sacar(valor);
                 contaDestino.Depositar(valor);
-            }
-            else
+            } else
             {
                 Console.WriteLine("Saldo insuficiente para transferência.");
             }
