@@ -87,3 +87,7 @@ Para compilar e executar o projeto, siga os passos abaixo:
 1. **Compilar o projeto:**  
    ```sh
    dotnet build
+
+2. **Rodar o projeto**
+   ```sh
+   dotnet run
