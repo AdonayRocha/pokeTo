@@ -20,8 +20,6 @@ O projeto é composto por dois componentes principais:
 
 ## 🛠️ Requisitos Técnicos  
 
-O projeto atende aos seguintes requisitos técnicos:  
-
 ### Implementação de todos os 7 níveis de acesso:  
 
 - **`public`**: Propriedade `Titular` e métodos `Depositar`, `Sacar`, `ObterSaldo`.  
