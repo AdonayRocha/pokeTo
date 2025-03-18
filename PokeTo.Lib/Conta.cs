@@ -12,9 +12,9 @@ namespace PokeTo.Lib
         {
             Titular = titular;
             Saldo = 0;
-            NumeroConta = "0000"; 
-            Banco = string.Empty; 
-            Agencia = string.Empty; // Erro na build, iniciando null?
+            NumeroConta = "0000";
+            Banco = string.Empty;
+            Agencia = string.Empty;
         }
 
         public abstract void Depositar(decimal valor);
@@ -25,10 +25,11 @@ namespace PokeTo.Lib
             Saldo += valor;
         }
 
-        internal void ExibirSaldo()
+        public void ExibirSaldo()
         {
-            Console.WriteLine($"Saldo: {Saldo}");
+            Console.WriteLine($"Saldo: {Saldo:C}");
         }
+
         public decimal ObterSaldo()
         {
             return Saldo;

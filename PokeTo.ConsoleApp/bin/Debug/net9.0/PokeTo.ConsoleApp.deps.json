@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "PokeTo.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "PokeTo.Lib": "1.0.0"
+        },
+        "runtime": {
+          "PokeTo.ConsoleApp.dll": {}
+        }
+      },
+      "PokeTo.Lib/1.0.0": {
+        "runtime": {
+          "PokeTo.Lib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PokeTo.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PokeTo.Lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
