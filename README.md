@@ -71,13 +71,6 @@ O projeto é composto por dois componentes principais:
 
 ---
 
-### **Classe Program**  
-
-- **Descrição:** Classe principal que contém o método `Main`, ponto de entrada do programa.  
-
-#### **Método:**  
-- `Main`: Cria uma instância de `ContaCorrente`, realiza operações de depósito e saque, e exibe o saldo.  
-
 ## 🏃‍♂️ Como Executar  
 
 Para compilar e executar o projeto, siga os passos abaixo:  
