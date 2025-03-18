@@ -14,7 +14,7 @@ O projeto é composto por dois componentes principais:
 
 ### Projeto de Biblioteca (*Lib*)  
 
-- **Diretório:** `Lib`  
+- **Diretório:** `PokeTo.Lib`  
 - **Arquivos:** `Conta.cs` e `ContaCorrente.cs`  
 - **Função:** Contém as classes e lógica de negócios para gerenciamento de contas bancárias.  
 
