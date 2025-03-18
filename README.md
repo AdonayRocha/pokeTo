@@ -28,7 +28,9 @@ O projeto é composto por dois componentes principais:
 - **`internal`**: Propriedade `Banco` e método `ExibirSaldo`.  
 - **`protected internal`**: Propriedade `Agencia`.  
 - **`private protected`**: Propriedade `NumeroConta`.  
-- **`internal protected`**: Método `Transferir` na classe `ContaCorrente`.  
+- **`internal protected`**: Método `Transferir` na classe `ContaCorrente`.
+- **`file`**: Método `FiledScropedLogger` na classe `Poketo` [Implementação do método obrigatório].  
+
 
 ### Presença de pelo menos uma classe abstrata  
 
