@@ -9,7 +9,6 @@ O projeto é composto por dois componentes principais:
 ### Projeto de Console  
 
 - **Arquivo principal:** `Poketo.cs`  
-- **Local:** Diretório principal do projeto  
 - **Função:** Ponto de entrada do aplicativo console que utiliza os objetos da biblioteca.  
 
 ### Projeto de Biblioteca (*Lib*)  
